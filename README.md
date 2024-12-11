@@ -103,7 +103,7 @@ Currently, I'm diving deeper into **Kubernetes** and working towards certificati
 ### 🏆 **Achievements**
 - 🏆 The Shubhra Kar Linux Foundation Training (LiFT) Scholarship Recipient  
 - 🏆 EC-Council Cybersecurity Career Mentor
-- 🏆 Featured on Ethical Hacking Leaderboard
+- 🏆 Featured on EC-Council Global Ethical Hacking Leaderboard
 
 ---
 
