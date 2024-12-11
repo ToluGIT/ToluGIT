@@ -141,13 +141,9 @@ Other certifications are available at [Credly](https://www.credly.com/users/tolu
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToluGIT&show_icons=true&locale=en&layout=compact" alt="ToluGIT top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToluGIT&" alt="ToluGIT streak stats" />
-</p>
 
 ### 🔝 **Top Contributed Repos**
-
-![](https://github-contributor-stats.vercel.app/api?username=ToluGIT)
+![](https://github-contributor-stats.vercel.app/api?username=ToluGIT&limit=5&theme=flat&combine_all_yearly_contributions=true)
 ---
 
 ### 🤝 **Let's Connect!**
