@@ -8,7 +8,7 @@ I'm committed to fortifying organizational defences against evolving cyber threa
 🌍 **Location**: Lagos, Nigeria  
 📧 **Email**: [toluwanimibanji@gmail.com](mailto:toluwanimibanji@gmail.com)  
 💼 **LinkedIn**: [Toluwanimi E. Banji-Idowu](hhttps://www.linkedin.com/in/toluwanimi-e-banji-idowu-161589190)  
-📂 **GitHub**: [Anshumaan Singh](https://github.com/ToluGIT)
+📂 **GitHub**: [Tolu Banji](https://github.com/ToluGIT)
 
 
 ---
