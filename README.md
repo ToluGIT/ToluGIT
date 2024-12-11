@@ -118,7 +118,7 @@ Currently, I'm diving deeper into **Kubernetes** and working towards certificati
 - **Professional Cloud Security Engineer** - Google Cloud
 - **CompTIA Advanced Security Practitioner (CASP+)** - CompTIA
 
-Other certifications are available at [Credly](https://www.credly.com/users/toluwanimi-banji-idowu)
+  Other certifications are available at [Credly](https://www.credly.com/users/toluwanimi-banji-idowu)
 ---
 
 ### 🌟 **Hobbies & Interests**
@@ -144,6 +144,9 @@ Other certifications are available at [Credly](https://www.credly.com/users/tolu
 
 ### 🔝 **Top Contributed Repos**
 ![](https://github-contributor-stats.vercel.app/api?username=ToluGIT&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=ToluGIT&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 ---
 
 ### 🤝 **Let's Connect!**
