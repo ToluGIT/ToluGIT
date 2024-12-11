@@ -143,10 +143,8 @@ Currently, I'm diving deeper into **Kubernetes** and working towards certificati
 
 
 ### 🔝 **Top Contributed Repos**
-![](https://github-contributor-stats.vercel.app/api?username=ToluGIT&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-![](https://github-contributor-stats.vercel.app/api?username=ToluGIT&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
+![](https://github-readme-stats.vercel.app/api?username=ToluGIT&show_icons=true&theme=radical) 
 ---
 
 ### 🤝 **Let's Connect!**
