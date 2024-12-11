@@ -109,7 +109,7 @@ Currently, I'm diving deeper into **Kubernetes** and working towards certificati
 
 ### 🏅 **Certifications**
 - **CKA: Certified Kubernetes Administrator** - The Linux Foundation
-- **CKS: Certified Kubernetes Security** - The Linux Foundation
+- **CKS: Certified Kubernetes Security Specialist** - The Linux Foundation
 - **AWS Certified DevOps Engineer – Professional** - Amazon Web Services (AWS)
 - **AWS Certified Security – Specialty** - Amazon Web Services (AWS)
 - **Microsoft Certified: Azure Solutions Architect Expert** - Microsoft
