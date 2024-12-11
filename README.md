@@ -147,12 +147,11 @@ Other certifications are available at [Credly](https://www.credly.com/users/tolu
 
 ### 🔝 **Top Contributed Repos**
 
-![](https://github-contributor-stats.vercel.app/api?username=ToluGIT&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=ToluGIT)
 ---
 
 ### 🤝 **Let's Connect!**
 
 I'm always open to new opportunities, collaborations, and learning experiences. If you'd like to connect or work together on something amazing, feel free to reach out!
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
