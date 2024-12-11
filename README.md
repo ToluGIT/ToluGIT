@@ -134,7 +134,7 @@ Currently, I'm diving deeper into **Kubernetes** and working towards certificati
 ### 📊 **GitHub Stats**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToluGIT&show_icons=true&locale=en" alt="Tolu Banji's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToluGIT&show_icons=true&theme=radical" alt="Tolu Banji's GitHub stats" />
 </p>
 
 <p align="left">
@@ -142,10 +142,6 @@ Currently, I'm diving deeper into **Kubernetes** and working towards certificati
 </p>
 
 
-### 🔝 **Top Contributed Repos**
-
-![](https://github-readme-stats.vercel.app/api?username=ToluGIT&show_icons=true&theme=radical) 
----
 
 ### 🤝 **Let's Connect!**
 
