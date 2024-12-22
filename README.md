@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tolu Banji</h1>
-<h3 align="center">DevSecOps & Security Engineer | Cloud Security Specialist</h3>
-
+<h3 align="center">DevSecOps & Cloud Security Engineer</h3>
 <div align="center">
   <a href="mailto:toluwanimibanji@gmail.com">
     <img src="https://img.shields.io/badge/Email-toluwanimibanji%40gmail.com-red?style=flat-square&logo=gmail" />
@@ -13,49 +12,45 @@
   </a>
 </div>
 
----
+🌟 About Me
+I'm a DevSecOps Engineer specializing in cloud security and infrastructure automation. With a background in IT systems administration, I focus on:
 
-🌟 **About Me**  
-I'm a **DevSecOps** and **Security Engineer** specializing in implementing secure cloud-native solutions and automated security controls. With a strong foundation in **IT system administration**, I focus on:
-- Architecting secure multi-cloud environments (AWS, Azure, GCP)
-- Implementing automated security controls throughout the SDLC
-- Designing and managing secure Kubernetes deployments
-- Developing Infrastructure as Code with security best practices
-- Leading security compliance and governance initiatives
+Building secure cloud infrastructure and CI/CD pipelines
+Implementing container security and Kubernetes best practices
+Automating security controls and compliance checks
+Developing Infrastructure as Code with security by design
 
-🌍 **Location**: Lagos, Nigeria  
-💼 **Current Focus**: Cloud-Native Security & DevSecOps Automation
-
----
+🌍 Location: Lagos, Nigeria
+💼 Current Focus: Cloud Security & DevSecOps Automation
 
 <h3 align="left">🛡️ Core Expertise</h3>
 
-- **Cloud Security Architecture**
-  - Multi-cloud security design
-  - Zero Trust implementation
-  - IAM & access control
-  - Security baseline automation
+Cloud Security
 
-- **Container & Kubernetes Security**
-  - Pod security policies
-  - Network policies
-  - Runtime security
-  - Image scanning
-  - Service mesh security
+Multi-cloud security architecture
+Identity and access management
+Security baseline automation
+Cloud compliance frameworks
 
-- **Security Automation**
-  - CI/CD security integration
-  - IaC security scanning
-  - Compliance automation
-  - Security testing automation
 
-- **Infrastructure Security**
-  - Infrastructure as Code
-  - Configuration management
-  - Secret management
-  - Network security
+Container Security
 
----
+Kubernetes security patterns
+Container image scanning
+Runtime security monitoring
+Pod security policies
+
+
+DevSecOps
+
+Security pipeline integration
+Infrastructure as Code
+Automated compliance checks
+Secrets management
+
+
+
+
 <h3 align="left">🔧 Technology Stack</h3>
 <p align="left"> 
   <!-- Cloud Platforms -->
@@ -136,77 +131,53 @@ I'm a **DevSecOps** and **Security Engineer** specializing in implementing secur
   </a>
 </p>
 
----
+<h3 align="left">🌱 Current Focus</h3>
 
-<h3 align="left">🌱 Professional Development</h3>
+Advanced Kubernetes Security
+Zero Trust Architecture
+Cloud-Native Security Operations
+Security Architecture Design
 
-Currently focusing on:
-- Advanced Kubernetes Security Patterns
-- Zero Trust Architecture Implementation
-- Cloud-Native Security Operations
-- GRC & Privacy Engineering
-- Security Architecture Design Patterns
 
----
+<h3 align="left">🏆 Achievements</h3>
 
-<h3 align="left">🏆 Achievements & Recognition</h3>
+🎓 The Shubhra Kar Linux Foundation Training (LiFT) Scholarship Recipient
+👨‍🏫 EC-Council Cybersecurity Career Mentor
+🎯 Featured on EC-Council Global Ethical Hacking Leaderboard
 
-- 🎓 The Shubhra Kar Linux Foundation Training (LiFT) Scholarship Recipient
-- 👨‍🏫 EC-Council Cybersecurity Career Mentor
-- 🎯 Featured on EC-Council Global Ethical Hacking Leaderboard
 
----
+<h3 align="left">🎓 Certifications</h3>
+Container & Kubernetes
 
-<h3 align="left">🎓 Key Certifications</h3>
+CKA: Certified Kubernetes Administrator
+CKS: Certified Kubernetes Security Specialist
 
-**Container & Kubernetes**
-- CKA: Certified Kubernetes Administrator
-- CKS: Certified Kubernetes Security Specialist
+Cloud Platforms
 
-**Cloud Platforms**
-- AWS Certified DevOps Engineer – Professional
-- AWS Certified Security – Specialty
-- Microsoft Certified: Azure Solutions Architect Expert
-- Professional Cloud Architect - Google Cloud
+AWS Certified DevOps Engineer – Professional
+AWS Certified Security – Specialty
+Microsoft Certified: Azure Solutions Architect Expert
+Professional Cloud Architect - Google Cloud
 
-**Security**
-- Microsoft Certified: Cybersecurity Architect Expert
-- Professional Cloud Security Engineer - Google Cloud
-- CompTIA Advanced Security Practitioner (CASP+)
+Security
 
-Additional certifications available on [Credly](https://www.credly.com/users/toluwanimi-banji-idowu)
+Microsoft Certified: Cybersecurity Architect Expert
+Professional Cloud Security Engineer - Google Cloud
+CompTIA Advanced Security Practitioner (CASP+)
 
----
+Additional certifications available on Credly
 
 <h3 align="left">📊 GitHub Analytics</h3>
-
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ToluGIT&show_icons=true&theme=radical" alt="ToluGIT's GitHub stats"/>
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToluGIT&show_icons=true&locale=en&layout=compact" alt="ToluGIT's most used languages"/>
-</p>
-
----
-
-<h3 align="left">🎯 Beyond Technology</h3>
-
-- 📸 Photography Enthusiast
-- 🌍 Travel Explorer
-- 🎾 Tennis Player
-- 📚 Fiction Reader
-- 🎯 Continuous Learner
-
----
-
 <h3 align="left">🤝 Let's Connect!</h3>
+I'm interested in collaborating on:
 
-I'm always interested in collaborating on:
-- Open-source security tools
-- Cloud-native security projects
-- DevSecOps best practices
-- Security automation initiatives
+Cloud security projects
+DevSecOps best practices
+Security automation initiatives
 
 <div align="center">
 <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
