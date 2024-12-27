@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tolu Banji</h1>
+<h1 align="center">Hi, <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> I'm Tolu Banji</h1>
 <h3 align="center">DevSecOps & Cloud Security Engineer</h3>
 
 <div align="center">
@@ -24,9 +24,12 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 * Automating security controls and compliance checks
 * Developing Infrastructure as Code with security by design
 
-### 🌍 Quick Info
-* **Location**: Lagos, Nigeria  
-* **Current Focus**: Cloud Security & DevSecOps Automation
+### 👨‍💻 Personal Bits
+* 😄 Pronouns: He/Him
+* 🌱 Current Learning: DevOps with Go, Shell Scripting, Cloud Native Technologies and contributing to Open-Source tools.
+* 💬 Thoughts: Embracing continuous growth and learning - one commit at a time!
+* 💬 Ask me about DevSecOps best practices, Cloud-Native Security, Kubernetes and Open Source Contributions
+<p>🍌 Don't forget to get some Potassium 🍌</p>
 
 ---
 
@@ -35,14 +38,17 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 #### Cloud Security
 * Multi-cloud security architecture
 * Identity and access management
+  
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 * Security baseline automation
 * Cloud compliance frameworks
+
 
 #### Container Security
 * Kubernetes security patterns
 * Container image scanning
 * Runtime security monitoring
-* Pod security policies
 
 #### DevSecOps
 * Security pipeline integration
@@ -86,9 +92,6 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
   </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -108,31 +111,11 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
-
-  <!-- Web Technologies -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
-  </a>
-
+  
   <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
@@ -140,20 +123,13 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 
 ---
 
-<h3 align="left">🌱 Current Focus</h3>
-
-- Advanced Kubernetes Security
-- Zero Trust Architecture
-- Cloud-Native Security Operations
-- Security Architecture Design
-
----
 
 <h3 align="left">🏆 Achievements</h3>
 
 - 🎓 The Shubhra Kar Linux Foundation Training (LiFT) Scholarship Recipient
-- 👨‍🏫 EC-Council Cybersecurity Career Mentor
+- 👨‍🏫 EC-Council Cybersecurity Mentor
 - 🎯 Featured on EC-Council Global Ethical Hacking Leaderboard
+- 🎯 CNCF Ambassador
 
 ---
 
@@ -165,14 +141,15 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 
 **Cloud Platforms**
 - AWS Certified DevOps Engineer – Professional
-- AWS Certified Security – Specialty
 - Microsoft Certified: Azure Solutions Architect Expert
 - Professional Cloud Architect - Google Cloud
 
 **Security**
+- AWS Certified Security – Specialty
 - Microsoft Certified: Cybersecurity Architect Expert
 - Professional Cloud Security Engineer - Google Cloud
 - CompTIA Advanced Security Practitioner (CASP+)
+
 
 Additional certifications available on [Credly](https://www.credly.com/users/toluwanimi-banji-idowu)
 
@@ -180,19 +157,12 @@ Additional certifications available on [Credly](https://www.credly.com/users/tol
 
 <h3 align="left">📊 GitHub Analytics</h3>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ToluGIT&show_icons=true&theme=radical" alt="ToluGIT's GitHub stats"/>
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ToluGIT&count_private=true&theme=onedark&show_icons=true" alt="ToluGIT's GitHub stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ToluGIT&theme=onedark&show_icons=true" />
 </p>
 
----
+<p align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToluGIT&layout=compact&theme=onedark" />
 
-<h3 align="left">🤝 Let's Connect!</h3>
-
-I'm interested in collaborating on:
-- Cloud security projects
-- DevSecOps best practices
-- Security automation initiatives
-
-<div align="center">
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</div>
+</p>  
