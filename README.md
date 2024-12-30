@@ -26,10 +26,10 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 
 ### 👨‍💻 Personal Bits
 * 😄 Pronouns: He/Him
-* 🌱 Current Learning: DevOps with Go, Shell Scripting, Cloud Native Technologies and contributing to Open-Source tools.
-* 💬 Thoughts: Embracing continuous growth and learning - one commit at a time!
+* 🌱 Current Learning: DevOps with Go, Shell Scripting and Kubernetes
+* 🕛  Thoughts: Embracing continuous growth and learning - one commit at a time!
 * 💬 Ask me about DevSecOps best practices, Cloud-Native Security, Kubernetes and Open Source Contributions
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p> Don't forget to get some fruits 🍏<p>
 
 ---
 
