@@ -123,16 +123,6 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 
 ---
 
-
-<h3 align="left">🏆 Achievements</h3>
-
-- 🎓 The Shubhra Kar Linux Foundation Training (LiFT) Scholarship Recipient
-- 👨‍🏫 EC-Council Cybersecurity Mentor
-- 🎯 Featured on EC-Council Global Ethical Hacking Leaderboard
-- 🎯 CNCF Ambassador
-
----
-
 <h3 align="left">🎓 Certifications</h3>
 
 **Container & Kubernetes**
