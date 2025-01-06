@@ -1,6 +1,4 @@
 <h1 align="center">Hi, <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> I'm Tolu Banji</h1>
-<h3 align="center">DevSecOps Engineer</h3>
-
 <div align="center">
   <a href="mailto:toluwanimibanji@gmail.com">
     <img src="https://img.shields.io/badge/Email-toluwanimibanji%40gmail.com-red?style=flat-square&logo=gmail" />
