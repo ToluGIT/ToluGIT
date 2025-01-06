@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> I'm Tolu Banji</h1>
-<h3 align="center">DevSecOps & Cloud Security Engineer</h3>
+<h3 align="center">DevSecOps Engineer</h3>
 
 <div align="center">
   <a href="mailto:toluwanimibanji@gmail.com">
