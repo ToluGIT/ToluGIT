@@ -121,27 +121,6 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 
 ---
 
-<h3 align="left">🎓 Certifications</h3>
-
-**Container & Kubernetes**
-- CKA: Certified Kubernetes Administrator
-- CKS: Certified Kubernetes Security Specialist
-
-**Cloud Platforms**
-- AWS Certified DevOps Engineer – Professional
-- Microsoft Certified: Azure Solutions Architect Expert
-- Professional Cloud Architect - Google Cloud
-
-**Security**
-- AWS Certified Security – Specialty
-- Microsoft Certified: Cybersecurity Architect Expert
-- Professional Cloud Security Engineer - Google Cloud
-- CompTIA Advanced Security Practitioner (CASP+)
-
-
-Additional certifications available on [Credly](https://www.credly.com/users/toluwanimi-banji-idowu)
-
----
 
 <h3 align="left">📊 GitHub Analytics</h3>
 
