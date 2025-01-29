@@ -23,7 +23,6 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 * Developing Infrastructure as Code with security by design
 
 ### 👨‍💻 Personal Bits
-* 😄 Pronouns: He/Him
 * 🌱 Current Learning: DevOps with Go, Shell Scripting and Kubernetes
 * 🕛  Thoughts: Embracing continuous growth and learning - one commit at a time!
 * 💬 Ask me about Cloud-Native Security, Kubernetes and Open Source Contributions
