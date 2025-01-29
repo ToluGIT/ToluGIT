@@ -44,7 +44,7 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 
 
 #### Container Security
-* Kubernetes security patterns
+* Kubernetes security 
 * Container image scanning
 * Runtime security monitoring
 
@@ -126,7 +126,7 @@ I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure a
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ToluGIT&count_private=true&theme=onedark&show_icons=true" alt="ToluGIT's GitHub stats" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ToluGIT&theme=onedark&show_icons=true" />
+  <!--img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ToluGIT&theme=onedark&show_icons=true" / -->
 </p>
 
 <p align="center">
