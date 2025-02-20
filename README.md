@@ -13,7 +13,7 @@
 
 ---
 
-### 🌟 About Me  
+### About Me  
 
 I'm a Security Engineer specializing in DevSecOps and Cloud Security. I focus on:
 
@@ -22,7 +22,7 @@ I'm a Security Engineer specializing in DevSecOps and Cloud Security. I focus on
 * Automating security controls, compliance checks and continuous monitoring
 * Leading the development of secure, scalable Infrastructure as Code (IaC) solutions, aligning with industry standards.
 
-### 👨‍💻 Personal Bits
+### Personal Bits
 * 🌱 Current Learning: DevOps with Go, Shell Scripting and Kubernetes
 * 🕛  Thoughts: Embracing continuous growth and learning - one commit at a time!
 * 💬 Ask me about Cloud-Native Security, Kubernetes and Open Source Contributions
@@ -96,7 +96,7 @@ I'm a Security Engineer specializing in DevSecOps and Cloud Security. I focus on
 ---
 
 
-<h3 align="left">📊 GitHub Analytics</h3>
+<h3 align="left">GitHub Analytics</h3>
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ToluGIT&count_private=true&theme=onedark&show_icons=true" alt="ToluGIT's GitHub stats" />
