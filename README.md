@@ -3,7 +3,7 @@
   <a href="mailto:toluwanimibanji@gmail.com">
     <img src="https://img.shields.io/badge/Email-toluwanimibanji%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/toluwanimi-e-banji-idowu-161589190">
+  <a href="https://www.linkedin.com/in/tolubanji">
     <img src="https://img.shields.io/badge/LinkedIn-Toluwanimi%20Banji--Idowu-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://medium.com/@tolubanji">
@@ -15,43 +15,18 @@
 
 ### 🌟 About Me  
 
-I'm a **DevSecOps Engineer** specializing in cloud security and infrastructure automation. With a background in IT systems administration, I focus on:
+I'm a Security Engineer specializing in DevSecOps and Cloud Security. I focus on:
 
-* Building secure cloud infrastructure and CI/CD pipelines
-* Implementing container security and Kubernetes best practices
-* Automating security controls and compliance checks
-* Developing Infrastructure as Code with security by design
+* Designing and implementing secure cloud infrastructures with automated CI/CD pipelines to enhance deployment efficiency.
+* Enforcing container security measures and optimizing Kubernetes practices to bolster system resilience.
+* Automating security controls, compliance checks and continuous monitoring
+* Leading the development of secure, scalable Infrastructure as Code (IaC) solutions, aligning with industry standards.
 
 ### 👨‍💻 Personal Bits
 * 🌱 Current Learning: DevOps with Go, Shell Scripting and Kubernetes
 * 🕛  Thoughts: Embracing continuous growth and learning - one commit at a time!
 * 💬 Ask me about Cloud-Native Security, Kubernetes and Open Source Contributions
 <p> Don't forget to get some fruits 🍏<p>
-
----
-
-### 🛡️ Core Expertise
-
-#### Cloud Security
-* Multi-cloud security architecture
-* Identity and access management
-  
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-* Security baseline automation
-* Cloud compliance frameworks
-
-
-#### Container Security
-* Kubernetes security 
-* Container image scanning
-* Runtime security monitoring
-
-#### DevSecOps
-* Security pipeline integration
-* Infrastructure as Code
-* Automated compliance checks
-* Secrets management
 
 ---
 
