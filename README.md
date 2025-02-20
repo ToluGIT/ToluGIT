@@ -30,7 +30,7 @@ I'm a Security Engineer specializing in DevSecOps and Cloud Security. I focus on
 
 ---
 
-<h3 align="left">🔧 Technology Stack</h3>
+<h3 align="left">Technology Stack</h3>
 <p align="left"> 
   <!-- Cloud Platforms -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
