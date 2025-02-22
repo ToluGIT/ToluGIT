@@ -17,10 +17,10 @@
 
 I'm a Security Engineer specializing in DevSecOps and Cloud Security. I focus on:
 
-* Designing and implementing secure cloud infrastructures with automated CI/CD pipelines to enhance deployment efficiency.
+* Designing and implementing secure cloud infrastructures with automated CI/CD pipelines to enhance deployment and operational efficiency.
 * Enforcing container security measures and optimizing Kubernetes practices to bolster system resilience.
 * Automating security controls, compliance checks and continuous monitoring
-* Leading the development of secure, scalable Infrastructure as Code (IaC) solutions, aligning with industry standards.
+* Leading the development of secure, scalable Infrastructure as Code (IaC) solutions.
 
 ### Personal Bits
 * 🌱 Current Learning: DevOps with Go, Shell Scripting and Kubernetes
