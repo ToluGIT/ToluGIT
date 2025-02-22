@@ -1,31 +1,13 @@
-<h1 align="center">Hi, <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> I'm Tolu Banji</h1>
-<div align="center">
-  <a href="mailto:toluwanimibanji@gmail.com">
-    <img src="https://img.shields.io/badge/Email-toluwanimibanji%40gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/tolubanji">
-    <img src="https://img.shields.io/badge/LinkedIn-Toluwanimi%20Banji--Idowu-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://medium.com/@tolubanji">
-    <img src="https://img.shields.io/badge/Medium-Tolu%20Banji-black?style=flat-square&logo=medium" />
-  </a>
-</div>
+<h1 align="center">Hi, <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> </h1>
 
----
 
 ### About Me  
 
-I'm a Security Engineer specializing in DevSecOps and Cloud Security. I focus on:
-
-* Designing and implementing secure cloud infrastructures with automated CI/CD pipelines to enhance deployment and operational efficiency.
-* Enforcing container security measures and optimizing Kubernetes practices to bolster system resilience.
-* Automating security controls, compliance checks and continuous monitoring
-* Leading the development of secure, scalable Infrastructure as Code (IaC) solutions.
+Security Engineer specialising in DevSecOps, focusing on securing cloud infrastructures, automating CI/CD pipelines and compliance controls, enforcing container and Kubernetes security, and delivering scalable Infrastructure as Code (IaC) solutions to ensure system resilience and operational efficiency.
 
 ### Personal Bits
-* 🌱 Current Learning: DevOps with Go, Shell Scripting and Kubernetes
-* 🕛  Thoughts: Embracing continuous growth and learning - one commit at a time!
-* 💬 Ask me about Cloud-Native Security, Kubernetes and Open Source Contributions
+* 🌱  Thoughts: Embracing continuous growth and learning - one commit at a time!
+* 💬 Ask me about Cloud-Native Security and Kubernetes
 <p> Don't forget to get some fruits 🍏<p>
 
 ---
