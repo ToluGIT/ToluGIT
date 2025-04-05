@@ -3,7 +3,9 @@
 
 ### About Me  
 
-Security Engineer specialising in DevSecOps, focusing on securing cloud infrastructures, automating CI/CD pipelines and compliance controls, enforcing container and Kubernetes security, and delivering scalable Infrastructure as Code (IaC) solutions to ensure system resilience and operational efficiency.
+Security Engineer specialising in DevSecOps, focusing on securing cloud infrastructures, automating CI/CD pipelines and compliance controls (ISO 27001, SOC 2), enforcing container and Kubernetes security, and delivering scalable Infrastructure as Code (IaC) solutions to ensure system resilience and operational efficiency. I enjoy integrating security into DevOps workflows, using automation, AI-powered security tooling, and cloud security best practices to build resilient systems.
+
+As an AWS Community Builder and cybersecurity speaker, I actively contribute to industry knowledge by mentoring, delivering conference presentations, and sharing valuable insights on security trends. Additionally, I have developed security tools for AWS environments and successfully led security initiatives across multiple organisations.
 
 ### Personal Bits
 * 🌱  Thoughts: Embracing continuous growth and learning - one commit at a time!
